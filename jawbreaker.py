@@ -8,12 +8,6 @@ password_exist = "TYPE YOUR PASSWORD HERE"
 
 tries = 0
 
-password = ""
-password2 = ""
-password3 = ""
-password4 = ""
-password5 = ""
-
 import random
 import string
 import time
